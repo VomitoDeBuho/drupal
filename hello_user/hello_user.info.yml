@@ -1,0 +1,5 @@
+name: Hello User
+type: module
+description: Modul per generar un numero de taula
+core_version_requirement: ^8.8.0 || ^9.0
+package: Custom
